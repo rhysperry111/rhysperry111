@@ -12,8 +12,8 @@ I like systems that are **observable**, **reproducible**, and actually **owned b
 ---
 
 - ❌ **Squashing at merge time is not fine**  
-  _History and commit signing matter._
+  _History and commit signing matter. Squash and sign before the PR :)_
 - 🧱 **Terraform > Ansible**  
-  _If Terraform can do it, Ansible is almost always the worse choice._
+  _If Terraform can do it, Ansible is almost always the worse choice. Yeah... I'm looking at you, network engineers._
 - 📦 **No IaC, no ownership**  
-  _If it isn't deployed from source control, it's shadow tech._
+  _If it isn't deployed from source control with an auditable state, it's shadow tech._
