@@ -19,18 +19,21 @@ I like systems that are **observable**, **reproducible**, and actually **owned b
 <td width="33%">
 
 ❌ **Squashing at merge time is not fine**
+
 History and commit signing matter.
 
 </td>
 <td width="33%">
 
 🧱 **Terraform > Ansible**
+
 If Terraform can do it, Ansible is almost always the worse choice.
 
 </td>
 <td width="33%">
 
 📦 **No IaC, no ownership**
+
 If it isn't deployed from source control, it's shadow tech.
 
 </td>
