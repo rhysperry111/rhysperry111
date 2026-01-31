@@ -1,6 +1,4 @@
-<table width="100%">
-<tr>
-<td colspan="3">
+### About me
 
 **Cyber engineer living at the intersection of infrastructure, security, and _“that doesn’t look right.”_**
 
@@ -13,28 +11,18 @@ Focused on:
 
 I like systems that are **observable**, **reproducible**, and actually **owned by the people running them**.
 
-</td>
-</tr>
-<tr>
-<td width="33%">
+---
 
-❌ **Squashing at merge time is not fine**
+### Hills I will die on 
 
-History and commit signing matter.
+- ❌ **Squashing at merge time is not fine**
+  
+  _History and commit signing matter._
 
-</td>
-<td width="33%">
+- 🧱 **Terraform > Ansible**
+  
+  _If Terraform can do it, Ansible is almost always the worse choice._
 
-🧱 **Terraform > Ansible**
-
-If Terraform can do it, Ansible is almost always the worse choice.
-
-</td>
-<td width="33%">
-
-📦 **No IaC, no ownership**
-
-If it isn't deployed from source control, it's shadow tech.
-
-</td>
-</table>
+- 📦 **No IaC, no ownership**
+  
+  _If it isn't deployed from source control, it's shadow tech._
