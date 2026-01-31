@@ -1,5 +1,3 @@
-### About me
-
 **Cyber engineer living at the intersection of infrastructure, security, and _“that doesn’t look right.”_**
 
 Focused on:
@@ -12,8 +10,6 @@ Focused on:
 I like systems that are **observable**, **reproducible**, and actually **owned by the people running them**.
 
 ---
-
-### Hills I will die on 
 
 - ❌ **Squashing at merge time is not fine**
   
