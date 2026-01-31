@@ -1,7 +1,7 @@
 **Cyber engineer living at the intersection of infrastructure, security, and _“that doesn’t look right.”_**
 
 Focused on:
-- 🏗️ Infrastructure as Codee
+- 🏗️ Infrastructure as Code
 - 🔐 Secure, zero-trust architecture
 - 🏠 Self-hosted + hybrid-cloud infrastructure
 - 🌍 Digital sovereignty
